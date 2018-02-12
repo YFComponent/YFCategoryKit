@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YFCategoryKit_Example' do
+  pod 'YFCategoryKit', :path => '../'
+
+  target 'YFCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
