@@ -1,0 +1,6 @@
+framework module Pods_YFCategoryKit_Example {
+  umbrella header "Pods-YFCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

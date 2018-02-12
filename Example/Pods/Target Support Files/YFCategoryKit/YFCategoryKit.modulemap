@@ -1,0 +1,6 @@
+framework module YFCategoryKit {
+  umbrella header "YFCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
